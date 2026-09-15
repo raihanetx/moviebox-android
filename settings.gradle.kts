@@ -18,6 +18,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-
-rootProject.name = "MovieBox Downloader"
+rootProject.name = "MovieBoxDownloader"
 include(":app")
